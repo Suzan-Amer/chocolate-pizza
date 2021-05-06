@@ -1,0 +1,138 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Noto Serif', serif;
+    width: 960px;
+    margin: auto;
+}
+
+
+
+
+
+section img {
+    float: left;
+   
+}
+
+div {
+    float: right;
+}
+header {
+   
+    border-bottom: 10px dotted;
+    padding-bottom:  30PX;
+}
+
+h1 {
+    font-size: 30px;
+    margin: 0px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    right: 20px;
+}
+
+h4 {
+    color: rgb(113, 150, 146);
+}
+
+h2 {
+    font-family: Impact, fantasy;
+    font-size: 40px;
+}
+
+#print {
+    float: right;
+    padding-bottom: 30px;
+}
+
+#print1 {
+   float: right;
+    color:rgb(113, 150, 146);
+    
+    margin-top: 0%;
+}
+
+
+  article P {
+    font-size: 25PX;
+    color: rgb(113, 150, 146);
+}
+
+.container {
+    position: relative;
+    text-align: center;
+   
+}
+
+ .Tables {
+    font-family: Comic Sans MS ;
+   
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+}
+
+#table1 {
+    left: inherit;
+}
+
+#table2 {
+    padding-right: 100px;
+}
+
+ul, li {
+    list-style-type: none;
+}
+
+li {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+li button {
+    margin-right: 2em;
+}
+
+footer p {
+    text-align: center;
+    color: gray;
+}
+
+#img5 {
+    float: left;
+}
+
+#btn {
+    float: right;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  
+    
+}
+
+#h5{
+    font-size: 25px;
+}
+
+#p5{
+font-size: 20px;
+color:rgb(113, 150, 146) ;
+
+}
+
+
+
+  #hr{
+   
+    background: url(img/small-logo.png) ; 
+   
+   
+  }
+
+  #logo{
+      padding-left: 450px;
+  }
